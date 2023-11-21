@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the future of human-computer interaction! The "AI Virtual Mouse" project introduces a groundbreaking solution to control your computer mouse using nothing but your hand gestures, all thanks to the power of Artificial Intelligence.
+Welcome to the future of human-computer interaction! The "AI Virtual Mouse" project introduces a groundbreaking solution to control your computer mouse using nothing but your hand gestures, all thanks to the power of Artificial Intelligence and Computer Vision.
 
 ## Features
 
